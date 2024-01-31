@@ -69,6 +69,15 @@ article div {
     border: 1px solid var(--grey-foreground-color);
 }
 
+article p {
+    margin: var(--general-margin);
+    line-height: 1.5;
+}
+
+article h3 {
+    margin: var(--general-margin);
+}
+
 article div img {
     height: 500px;
     width: 100%;
